@@ -1,0 +1,14 @@
+//install dependencies 
+npm init  // generat package.json
+
+npm install express --save
+
+npm install mongoose cors path body-parser --save
+
+//run node server 
+node app.js
+
+//install nodemon to watch changes and updating and refreshing server
+npm install nodemon
+
+install postman to test api
